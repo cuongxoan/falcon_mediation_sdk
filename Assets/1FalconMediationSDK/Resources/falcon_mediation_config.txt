@@ -1,0 +1,1 @@
+{"fmediationVersion":"v2.7","enableLogData4Game":false,"ironsource":{"ironsource_key_android":"","ironsource_key_ios":""},"max":{"MaxSdkKey":"","InterstitialAdUnitId":"","RewardedAdUnitId":"","RewardedInterstitialAdUnitId":"","BannerAdUnitId":"","MRecAdUnitId":""}}
